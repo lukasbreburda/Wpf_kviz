@@ -1,0 +1,14 @@
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\bin\Debug\Wpf_kviz.exe.config
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\bin\Debug\Wpf_kviz.exe
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\bin\Debug\Wpf_kviz.pdb
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\obj\Debug\MainWindow.g.cs
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\obj\Debug\App.g.cs
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\obj\Debug\Wpf_kviz_MarkupCompile.cache
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\obj\Debug\Wpf_kviz_MarkupCompile.lref
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\obj\Debug\MainWindow.baml
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\obj\Debug\Wpf_kviz.g.resources
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\obj\Debug\Wpf_kviz.Properties.Resources.resources
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\obj\Debug\Wpf_kviz.csproj.GenerateResource.Cache
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\obj\Debug\Wpf_kviz.exe
+c:\users\brebu\documents\visual studio 2015\Projects\Wpf_kviz\Wpf_kviz\obj\Debug\Wpf_kviz.pdb
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Wpf_kviz\Wpf_kviz\obj\Debug\Wpf_kviz.csprojResolveAssemblyReference.cache
